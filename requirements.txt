@@ -1,6 +1,6 @@
-tqdm==4.20.0
-numpy==1.15.2
-torchvision==0.2.1
-torch==0.4.1.post2
-matplotlib==3.3.4
+tqdm
+numpy
+torchvision
+torch
+matplotlib
 streamlit
