@@ -1,7 +1,7 @@
 # VAE
 Implementation of Variational Autoencoder in PyTorch
 
-[Paper](https://arxiv.org/pdf/1804.00347.pdf)
+[Paper](https://arxiv.org/pdf/1312.6114.pdf)
 
 [App](https://alexanderamy-vae-st-main-5hq40u.streamlit.app/)
 
