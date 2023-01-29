@@ -10,5 +10,12 @@ Implementation of Variational Autoencoder in PyTorch
 2. `conda activate vae` 
 3. `pip install -r requirements.txt`
 
+## Run
+Train: `python run_vae.py`
+
+Generate MNIST digits: `python run_vae.py --train 0`
+
+Streamlit: `streamlit run st_main.py`
+
 ## Results
 ![image](outputs/model=vae_z=10_run=0000/model=vae_z=10_run=0000.png)
