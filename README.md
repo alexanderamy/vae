@@ -3,7 +3,7 @@ Implementation of Variational Autoencoder in PyTorch
 
 [Paper](https://arxiv.org/pdf/1312.6114.pdf)
 
-[App](https://alexanderamy-vae-st-main-5hq40u.streamlit.app/)
+[App](https://alexanderamy-vae-st-main-td8m9r.streamlit.app/)
 
 ## Setup
 1. `conda create -n vae python=3.8`
